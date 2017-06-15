@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/vr44"
+    tools:context="com.motivation.daily.dailymotivation.MainActivity">
+<RelativeLayout
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+
+    android:id="@+id/my3">
+
+
+   <RelativeLayout
+       android:layout_width="match_parent"
+       android:id="@+id/my_viw"
+       android:background="@color/colorAccent"
+       android:visibility="gone"
+       android:layout_height="match_parent"
+       android:layout_alignParentTop="true"
+       android:layout_alignParentStart="true">
+
+
+       <Button
+           android:id="@+id/button5"
+           android:layout_width="wrap_content"
+           android:layout_height="wrap_content"
+           android:text="Button"
+           android:layout_alignBottom="@+id/button2"
+           android:layout_alignStart="@+id/button2"
+           android:layout_marginBottom="63dp" />
+
+       <Button
+           android:id="@+id/button6"
+           android:layout_width="wrap_content"
+           android:layout_height="wrap_content"
+           android:layout_alignParentTop="true"
+           android:layout_centerHorizontal="true"
+           android:layout_marginTop="195dp"
+           android:text="Button" />
+
+       <Button
+           android:id="@+id/button2"
+           android:layout_width="wrap_content"
+           android:layout_height="wrap_content"
+           android:layout_alignParentTop="true"
+           android:layout_centerHorizontal="true"
+           android:layout_marginTop="135dp"
+           android:text="Button" />
+   </RelativeLayout>
+
+
+
+
+
+</RelativeLayout>
+    <ImageView
+        android:id="@+id/fab"
+        android:src="@mipmap/ic_launcher_round"
+        android:layout_width="70dp"
+        android:layout_height="70dp"
+        android:layout_gravity="bottom|end"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentRight="true"
+        />
+</RelativeLayout>

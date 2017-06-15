@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "916973186662",
+    "firebase_url": "https://dailymotivation-4664c.firebaseio.com",
+    "project_id": "dailymotivation-4664c",
+    "storage_bucket": "dailymotivation-4664c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:916973186662:android:a09f39caa6e3865e",
+        "android_client_info": {
+          "package_name": "com.motivation.daily.dailymotivation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "916973186662-72nrcarf5bjl48ktoo88ml384elg7i8d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.motivation.daily.dailymotivation",
+            "certificate_hash": "098c9e631ba5745b89e0057fa0e4ee1c3eb03915"
+          }
+        },
+        {
+          "client_id": "916973186662-to766gvabhmag07kne2m5pufrt1j0mea.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCX7Z5TPKBhjtywuYhbEQ56SQ60Sdaq9ts"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "916973186662-to766gvabhmag07kne2m5pufrt1j0mea.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
